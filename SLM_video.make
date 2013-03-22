@@ -1,5 +1,8 @@
-core = 7.x
 api = 2
+core = 7.x
+
+; build on base file
+includes[] = "./SLM_base.make"
 
 ; Modules
 projects[] = domwindow
