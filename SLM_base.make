@@ -54,6 +54,7 @@ projects[] = search404
 projects[] = search_config
 projects[] = site_verify
 projects[] = sharethis
+projects[] = special_menu_items
 projects[] = superfish
 projects[] = tac_lite
 projects[] = taxonomy_menu
@@ -80,4 +81,8 @@ libraries[ckeditor][directory_name] = "ckeditor"
 libraries[ckeditor][type] = "library"
 
 
+libraries[ckeditor][download][type] = "get"
+libraries[ckeditor][download][url] = "https://github.com/mehrpadin/Superfish-for-Drupal/archive/master.zip"
+libraries[ckeditor][directory_name] = "superfish"
+libraries[ckeditor][type] = "library"
 
