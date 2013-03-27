@@ -14,6 +14,6 @@ projects[] = video_embed_field_overlay
 
 ; Libraries
 libraries[colorbox][download][type] = "get"
-libraries[colorbox][download][url] = "https://github.com/jackmoore/colorbox/archive/master.zip"
+libraries[colorbox][download][url] = "http://github.com/jackmoore/colorbox/archive/master.zip"
 libraries[colorbox][directory_name] = "colorbox"
 libraries[colorbox][type] = "library"
